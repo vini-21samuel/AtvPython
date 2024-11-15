@@ -1,0 +1,4 @@
+João; Natal; 25 ;3500
+Arthur; Fortaleza; 32 ;4200
+Miguel; Recife; 28 ;2900
+Maria; São Paulo; 41 ;5000
